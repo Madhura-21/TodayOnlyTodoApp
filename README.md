@@ -61,6 +61,8 @@ UI and animations were intentionally kept simple to prioritize product correctne
 
 # Build Instructions
 
-Open in Xcode 14+
+Open in Xcode 14+ 
+
 Run on iOS 16+ simulator or device
+
 No setup required.
